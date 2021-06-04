@@ -1,15 +1,15 @@
-# P3Delta web version - test lab
+# P3Delta Online
 
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jayvir29/P3D-web-test-lab/HEAD)
 
-Welcome user to the P3Delta web test lab !
+Welcome user to the P3Delta Online !
 You can find more information about the project here : 
 https://iboussaa.gitlabpages.inria.fr/partial-pole-placement-via-delay-action/P3d-Home.html
 
 ## Notes
 
 This version is a laboratory test version, so it has many bugs, and is not intended to be used in a daily environment.
-P3Delta web version test lab is a Binder-compatible repo with a `requirements.txt` file.
+P3Delta Online is a Binder-compatible repo with a `requirements.txt` file.
 Access this Binder at the following URL
 
 https://mybinder.org/v2/gh/Jayvir29/P3D-web-test-lab/HEAD
