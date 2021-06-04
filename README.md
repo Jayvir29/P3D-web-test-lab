@@ -1,6 +1,6 @@
 # P3Delta Online
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jayvir29/P3D-web-test-lab/HEAD)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jayvir29/P3Delta-Online/HEAD)
 
 Welcome user to the P3Delta Online !
 You can find more information about the project here : 
