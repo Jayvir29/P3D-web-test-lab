@@ -12,7 +12,7 @@ This version is a laboratory test version, so it has many bugs, and is not inten
 P3Delta Online is a Binder-compatible repo with a `requirements.txt` file.
 Access this Binder at the following URL
 
-https://mybinder.org/v2/gh/Jayvir29/P3D-web-test-lab/HEAD
+https://mybinder.org/v2/gh/Jayvir29/P3Delta-Online/HEAD
 
 N.B : Last version 1.3 (01/04/2021)
 
